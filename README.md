@@ -1,3 +1,4 @@
+https://safehaven-project.herokuapp.com/
 # ABOUT
 
 Safehaven is a mobile-first app created predominantly for women and LGBTQA+ folks to report incidents of sexual assault across Australia. The app allows users to view incidents reported by other anonymous users across cities, and to easily report incidents themself. This is an app that we would prefer to not need, but unfortunately do. Although the locations pinpointed on the map are not themselves 'safe havens', we hope that this app may help users feel and stay safer in their day-to-day lives. 
